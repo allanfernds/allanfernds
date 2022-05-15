@@ -1,5 +1,5 @@
 <h1 align="center"> 👋🏾Hi, i'm Alan Fernandes! </h1>
-<h3 align="center"> Studying to be a mobile developer  </h3>
+<h3 align="center"> I'm studying to be a mobile developer </h3>
 
 <br>
 
