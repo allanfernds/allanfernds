@@ -38,5 +38,5 @@
 </a>
 </div>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/allanfernds/allanfernds/blob/output/github-contribution-grid-snake.svg)
 
