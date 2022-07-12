@@ -5,7 +5,7 @@
 
 - 🔭 I am currently working on Freelancer Designer
 - 🌱 I am currently learning JavaScript, HTML and CSS
-- 💫 See my short projects with JavaScript, HTML5 and CSS3 in my [codepen](codepen.io/allanfernds) 
+- 💫 See my short projects with JavaScript, HTML5 and CSS3 in my [codepen](https://codepen.io/allanfernds) 
 - 📫 How to contact me: [linkedIn](https://www.linkedin.com/in/alan-fernandes-03096317b/)
 - ⚡ Fun fact: My hobby is playing survival games and creating puzzles
 
