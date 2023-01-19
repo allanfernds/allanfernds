@@ -1,21 +1,47 @@
-<h1 align="center"> 👋🏾Hi, i'm Alan Fernandes! </h1>
-<h3 align="center"> I'm studying to be a mobile developer </h3>
 
-<br>
 
-- 🔭 I am currently working on Freelancer Designer
-- 🌱 I am currently learning JavaScript, HTML and CSS
-- 💫 See my short projects with JavaScript, HTML5 and CSS3 in my [codepen](https://codepen.io/allanfernds) 
-- 📫 How to contact me: [linkedIn](https://www.linkedin.com/in/alan-fernandes-03096317b/)
-- ⚡ Fun fact: My hobby is playing survival games and creating puzzles
+![](https://komarev.com/ghpvc/?username=allanferndsSwerts&color=006bed)
 
-<br>
+<h3> :woman: &nbsp;Sobre mim </h3>
 
-<h3 align="center"> 👨🏾‍💻Skills  </h3>
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="50px"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="50px"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" width="50px"/>
-</div>
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **Desenvolvimento Web FullStack** no <a href="https://app.betrybe.com/">Trybe</a>.
 
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Front-End**
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+  ![Tailwindcss](https://img.shields.io/badge/-tailwindcss-333333?style=for-the-badge&logo=tailwindcss)
+  ![Bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=for-the-badge&logo=bootstrap)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=for-the-badge&logo=redux)
+
+**Back-End**
+
+  ![Node.js](https://img.shields.io/badge/-node.js-333333?style=for-the-badge&logo=node.js)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=Express)   
+
+**Unitary tests**
+
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=for-the-badge&logo=Jest)
+  ![Testing Library](https://img.shields.io/badge/-Testing_Library-333333?style=for-the-badge&logo=TestingLibrary)
+
+**Database**
+
+  ![firebase](https://img.shields.io/badge/-firebase-333333?style=for-the-badge&logo=firebase)
+  ![mongodb](https://img.shields.io/badge/-mongodb-333333?style=for-the-badge&logo=mongodb)
+
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+   ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=Linux&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
 
 <br><br>
 <div>
@@ -25,19 +51,13 @@
 </div>
 <br><br><br>
 
-<h3 align="center"> ✉️Conect with me </h3>
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-<div align="center">
-<a href="https://www.linkedin.com/in/alan-fernandes-03096317b/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://criarmeulink.com.br/u/1652531392" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.instagram.com/_alanfernds" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_alanfernds">
-</a>
-</div>
+[![Linkedin: Alan Fernandes](https://img.shields.io/badge/-Alan_Fernandes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanfernds/)](https://www.linkedin.com/in/alanfernds/)
+[![whatsapp: Alan Fernandes](https://img.shields.io/badge/-whatsapp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://linkwhats.app/43655a)](https://linkwhats.app/43655a)
+[![Gmail Badge](https://img.shields.io/badge/-alanfernandes.mm@gmail.com-006bed?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:alanfernandes.mm@gmail.com)
+<br>
+[![GitHub Alan Fernandes]( https://img.shields.io/github/followers/allanfernds?label=follow&style=social)](https://github.com/allanfernds)
 
+<br><br><br>
 ![snake gif](https://github.com/allanfernds/allanfernds/blob/output/github-contribution-grid-snake.svg)
-
