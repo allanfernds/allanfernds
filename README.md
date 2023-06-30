@@ -22,23 +22,29 @@
 **Back-End**
 
   ![Node.js](https://img.shields.io/badge/-node.js-333333?style=for-the-badge&logo=node.js)
+  ![Typescript](https://img.shields.io/badge/-typescript-333333?style=for-the-badge&logo=typescript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=Express)   
+  ![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=Express)
+  ![Sequelize](https://img.shields.io/badge/-sequelize-333333?style=for-the-badge&logo=sequelize)    
 
 **Unitary tests**
 
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=for-the-badge&logo=Jest)
   ![Testing Library](https://img.shields.io/badge/-Testing_Library-333333?style=for-the-badge&logo=TestingLibrary)
+  ![Chai](https://img.shields.io/badge/-Chai-333333?style=for-the-badge&logo=chai)
+  ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=for-the-badge&logo=mocha)
+
 
 **Database**
 
   ![firebase](https://img.shields.io/badge/-firebase-333333?style=for-the-badge&logo=firebase)
-  ![mongodb](https://img.shields.io/badge/-mongodb-333333?style=for-the-badge&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-mysql-333333?style=for-the-badge&logo=mysql)
 
 
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&logoColor=007ACC)
    ![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=Linux&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=for-the-badge&logo=figma&logoColor=007ACC)
