@@ -39,6 +39,7 @@
 
   ![firebase](https://img.shields.io/badge/-firebase-333333?style=for-the-badge&logo=firebase)
   ![MySQL](https://img.shields.io/badge/-mysql-333333?style=for-the-badge&logo=mysql)
+  ![PostegreSQL](https://img.shields.io/badge/-postgresql-333333?style=for-the-badge&logo=postegresql)
 
 
 **Ferramentas de Desenvolvimento**
