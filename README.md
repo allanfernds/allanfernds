@@ -1,7 +1,5 @@
 
 
-![](https://komarev.com/ghpvc/?username=allanferndsSwerts&color=006bed)
-
 <h3> &nbsp;Sobre mim </h3>
 
 - 🧑🏾‍💻 &nbsp; Desenvolvedor Web React / NextJS / Node.
