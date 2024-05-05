@@ -23,7 +23,7 @@
 ![](https://skillicons.dev/icons?i=mysql,postgres,mongo,firebase,)
 
 
-**Ferramentas de Desenvolvimento**
+**Outras Ferramentas de Desenvolvimento**
 <br/>
 ![](https://skillicons.dev/icons?i=figma,linux,ubuntu,mint,photoshop,illustrator,xd,vim)
 
@@ -42,5 +42,4 @@
 [![Linkedin: Alan Fernandes](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alanfernds/)       [![Gmail Badge](https://skillicons.dev/icons?i=gmail)](mailto:alanfernandes.mm@gmail.com)
 
 
-<br><br><br>
-![snake gif](https://github.com/allanfernds/allanfernds/blob/output/github-contribution-grid-snake.svg)
+
