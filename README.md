@@ -15,7 +15,7 @@
 
 **Back-End**
 <br/>
-![](https://skillicons.dev/icons?i=nodejs,typescript,expressjs,prisma,sequelize,docker,python,fastapi,bash,anaconda)
+![](https://skillicons.dev/icons?i=nodejs,typescript,expressjs,prisma,sequelize,docker,python,fastapi,bash,anaconda,go)
 
 
 **Database**
