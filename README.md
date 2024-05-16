@@ -30,7 +30,7 @@
 
 <br><br>
 <div>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=allanfernds&show_icons=true&theme=transparent)
+![allanfernds's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanfernds&show_icons=true&theme=transparent)
 </div>
 <br><br><br>
 
