@@ -23,12 +23,6 @@
 ![](https://skillicons.dev/icons?i=mysql,postgres,mongo,firebase,)
 
 
-**Outras Ferramentas de Desenvolvimento**
-<br/>
-![](https://skillicons.dev/icons?i=figma,linux,ubuntu,mint,photoshop,illustrator,xd,vim)
-
-
-
 [![Allanfernds's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=allanfernds&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/allanfernds/github-readme-stats#gh-dark-mode-only)
 [![Allanfernds's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=allanfernds&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/allanfernds/github-readme-stats#gh-light-mode-only)
 
