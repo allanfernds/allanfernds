@@ -4,7 +4,6 @@
 
 - 🧑🏾‍💻 &nbsp; Desenvolvedor FullStack Python / JavaScript / NextJS / Node.
 - 🎓 &nbsp; Formado em **Desenvolvimento Web FullStack** pela <a href="https://app.betrybe.com/">Trybe</a>.
-- 🛒 &nbsp; Gosto de desenvolver soluções para E-Commerces
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
