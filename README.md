@@ -2,7 +2,7 @@
 
 <h3> &nbsp;Sobre mim </h3>
 
-- 🧑🏾‍💻 &nbsp; Desenvolvedor Web React / NextJS / Node.
+- 🧑🏾‍💻 &nbsp; Desenvolvedor FullStack Python / JavaScript / NextJS / Node.
 - 🎓 &nbsp; Formado em **Desenvolvimento Web FullStack** pela <a href="https://app.betrybe.com/">Trybe</a>.
 - 🛒 &nbsp; Gosto de desenvolver soluções para E-Commerces
 
