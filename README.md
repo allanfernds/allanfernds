@@ -28,11 +28,10 @@
 ![](https://skillicons.dev/icons?i=figma,linux,ubuntu,mint,photoshop,illustrator,xd,vim)
 
 
-<br><br>
-<div>
-![allanfernds's GitHub stats](https://github-readme-stats.vercel.app/api?username=allanfernds&show_icons=true&theme=transparent)
-</div>
-<br><br><br>
+
+[![Allanfernds's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=allanfernds&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/allanfernds/github-readme-stats#gh-dark-mode-only)
+[![Allanfernds's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=allanfernds&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/allanfernds/github-readme-stats#gh-light-mode-only)
+
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
