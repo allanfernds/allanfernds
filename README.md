@@ -9,7 +9,7 @@
 
 **Front-End**
 <br/>
-![](https://skillicons.dev/icons?i=js,html,css,react,next,vite,tailwind,materialui,bootstrap,sass,less,jest,redux,)
+![](https://skillicons.dev/icons?i=js,html,css,react,next,tailwind,bootstrap,sass,jest,redux,)
 
 
 **Back-End**
