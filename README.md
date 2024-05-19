@@ -4,9 +4,9 @@
 
 - 🧑🏾‍💻 &nbsp; Desenvolvedor FullStack Python / JavaScript / NextJS / Node.
 - 🎓 &nbsp; Formado em **Desenvolvimento Web FullStack** pela <a href="https://app.betrybe.com/">Trybe</a>.
-- 🔭 Atualmente estou trabalhando em <a href="https://github.com/allanfernds/feiraofertas">Feira Ofertas</a>.
-- 🌱 Atualmente estou aprendendo Golang
-- 📫 Como entrar em contato comigo: alanfernandes.mm@gmail.com
+- 🔭 &nbsp; Atualmente estou trabalhando em <a href="https://github.com/allanfernds/feiraofertas">Feira Ofertas</a>.
+- 🌱 &nbsp; Atualmente estou aprendendo Golang
+- 📫 &nbsp; Como entrar em contato comigo: alanfernandes.mm@gmail.com
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
