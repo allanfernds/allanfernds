@@ -5,19 +5,18 @@
 - 🧑🏾‍💻 &nbsp; Desenvolvedor FullStack Python / JavaScript / NextJS / Node.
 - 🎓 &nbsp; Formado em **Desenvolvimento Web FullStack** pela <a href="https://app.betrybe.com/">Trybe</a>.
 - 🔭 &nbsp; Atualmente estou trabalhando em <a href="https://github.com/allanfernds/feiraofertas">Feira Ofertas</a>.
-- 🌱 &nbsp; Atualmente estou aprendendo Golang
 - 📫 &nbsp; Como entrar em contato comigo: alanfernandes.mm@gmail.com
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Front-End**
 <br/>
-![](https://skillicons.dev/icons?i=js,html,css,react,next,tailwind,bootstrap,sass,jest,redux,)
+![](https://skillicons.dev/icons?i=js,html,css,react,next,astro,tailwind,bootstrap,sass,jest,redux,)
 
 
 **Back-End**
 <br/>
-![](https://skillicons.dev/icons?i=nodejs,typescript,expressjs,prisma,sequelize,docker,python,fastapi,bash,)
+![](https://skillicons.dev/icons?i=nodejs,typescript,expressjs,prisma,sequelize,docker,python,fastapi,bash)
 
 
 **Database**
